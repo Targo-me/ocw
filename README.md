@@ -1,2 +1,2 @@
 # ocw
-A repository for Odin Links-and-images lesson
+A repository for Odin Course Exercises
